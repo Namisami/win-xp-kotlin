@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My-First-App</string>
+    <string name="btn_command_text">Пуск</string>
+    <string name="btn_sound_text">Настройка звука</string>
+    <string name="btn_computer_text">Мой компьютер</string>
+    <string name="global_time_text">18:17</string>
+    <string name="main_bg_desc_text">18:17</string>
+    <string name="computer_desc_text">Мой компьютер</string>
+</resources>
